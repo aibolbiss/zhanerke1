@@ -1,0 +1,33 @@
+/* ul {
+	padding: 0;
+	display: inline-flex;
+	list-style-type: none;
+	border: 1px solid #000;
+}
+
+li {
+	margin-right: 20px;
+	padding-right: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: blue;
+	font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+	margin: 30px;
+	color: rgb(238, 230, 15);
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	flex-direction: row-reverse;
+
+} */
+
+.zhan {
+background-color: blue;
+height: 50px;
+}
+.aiba {
+	color: aliceblue;
+	font: size 20px;
+	margin: 30px;
+}
